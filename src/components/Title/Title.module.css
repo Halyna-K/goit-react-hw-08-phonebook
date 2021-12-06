@@ -1,0 +1,7 @@
+.text {
+  text-align: center;
+  margin: 0;
+  padding: 2vmin 2vmin;
+  color: #315c8ad2;
+  font-size: calc(14px + 2vmin);
+}

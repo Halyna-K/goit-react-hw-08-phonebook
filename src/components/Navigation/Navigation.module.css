@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  list-style:none;
+  justify-content: space-around;
+}
+.text {
+  color: #212529;
+  font-weight: bold;
+  text-decoration: none;
+}
+.nav{
+  display: flex;
+  flex-direction: column;
+}
+/* .activeNavLink {
+  color: #44bdbd;
+} */
