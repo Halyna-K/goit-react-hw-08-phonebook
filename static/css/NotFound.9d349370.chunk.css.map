@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Title/Title.module.css"],"names":[],"mappings":"AAAA,mBACE,iBAAkB,CAClB,QAAS,CACT,aAAoB,CACpB,uCAAgB,CAChB,4BACF","file":"NotFound.9d349370.chunk.css","sourcesContent":[".text {\n  text-align: center;\n  margin: 0;\n  padding: 2vmin 2vmin;\n  color: #315c8ad2;\n  font-size: calc(14px + 2vmin);\n}\n"]}
